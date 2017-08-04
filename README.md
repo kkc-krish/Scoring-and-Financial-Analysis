@@ -7,5 +7,6 @@
 ## Description
 Project of research about financial investment technics with scoring and Markowitz optimisation
 
+## Documents
 [Research report](https://github.com/satacroteam/Scoring-and-Financial-Analysis/blob/master/Scoring_and_Financial_Analysis.pdf)
 
