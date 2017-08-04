@@ -1,7 +1,5 @@
 # Scoring-and-Financial-Analysis
 
-https://i2.wp.com/major-prepa.com/wp-content/uploads/2016/12/shutterstock_351882113.jpg?resize=640%2C300
-
 <p align="center">
   <img src="https://i2.wp.com/major-prepa.com/wp-content/uploads/2016/12/shutterstock_351882113.jpg?resize=640%2C300"/>
 </p>
